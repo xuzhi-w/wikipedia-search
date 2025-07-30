@@ -1,4 +1,12 @@
+
 # Wsearch
+This the first page: 
+<img width="1921" height="900" alt="first page" src="https://github.com/user-attachments/assets/c5db7cf0-302a-417f-8335-485f92476eb5" />
+Then enter "space" to search:
+<img width="1921" height="1122" alt="search results" src="https://github.com/user-attachments/assets/9e680e38-36ef-438f-aa38-d6aa59036bd3" />
+Click title: "space" and open a new page:
+<img width="1912" height="894" alt="wikipedia page" src="https://github.com/user-attachments/assets/a469797f-361a-4b4c-aab1-bc8112c6bcb4" />
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
 
