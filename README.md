@@ -1,6 +1,6 @@
 
 # Wsearch
-This the first page: 
+First page: 
 <img width="1921" height="900" alt="first page" src="https://github.com/user-attachments/assets/c5db7cf0-302a-417f-8335-485f92476eb5" />
 Then enter "space" to search:
 <img width="1921" height="1122" alt="search results" src="https://github.com/user-attachments/assets/9e680e38-36ef-438f-aa38-d6aa59036bd3" />
